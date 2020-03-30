@@ -352,6 +352,6 @@
 |21|x101+s50|avg||  |  |  |  |  |  | 0.47551257||
 |23|x101+s50|max||  |  |  |  |  |  | 0.49188273||
 
-注：实验23是采用基于SoftNMS结果的基础上，conf_type='max', weights=[1,1]和iou_thr = 0.7的配置。
+注：实验23是采用基于SoftNMS结果的基础上，conf_type='max', weights=[1,1]和iou_thr = 0.7的配置。而实验21是SoftNMS+conf_type='avg', weights=[2,1]和iou_thr = 0.7。
 
 **总结**：在‘对于WBF的一些发现和思考’中的发现是正确的，后期建议可以采用解决方法（1）试试。
