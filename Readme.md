@@ -4,7 +4,7 @@
 
 赛题链接：https://www.kesci.com/home/competition/5e535a612537a0002ca864ac/content/2
 
-参赛成员：
+参赛成员（排名不分先后）：
 
 李智敏 华中科技大学 研一
 
