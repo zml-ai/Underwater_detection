@@ -5,9 +5,11 @@
 赛题链接：https://www.kesci.com/home/competition/5e535a612537a0002ca864ac/content/2
 
 参赛成员：
+
 李智敏 华中科技大学 研一
 
 罗文斌 电子科技大学 研一
+
 艾宏峰 曼切斯特大学 应届研究生
 
 
