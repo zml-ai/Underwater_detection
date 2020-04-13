@@ -1,0 +1,22 @@
+
+# compiled output
+*.pyc
+build/
+dist/
+dist-server/
+
+# IDE and system
+.vs/
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+*.DS_Store
+.env/
+.env.local
+.env.*.local
+*.pptx
+
